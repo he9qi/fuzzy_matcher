@@ -1,7 +1,7 @@
 require File.expand_path('../lib/fuzzy_matcher/version.rb', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'fuzzy_matcher'
+  s.name        = 'fuzzy-matcher'
   s.version     = FuzzyMatcher::VERSION
   s.date        = '2014-04-18'
   s.summary     = "Fuzzy matches words, digits, etc. in a string of text."
