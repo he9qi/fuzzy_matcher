@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
     Fuzzy matcher looks for fuzzy matches such as words, digits, etc. in a string of text using regex or string.
   DESC
   s.authors     = ["Qi He"]
-  s.email       = 'qhe@heyook.com'
+  s.email       = 'qihe229@gmail.com'
   s.files       = ["lib/fuzzy_matcher.rb", "lib/fuzzy_matcher/"]
-  s.homepage    = 'http://github.com/heyook/fuzzy_matcher'
+  s.homepage    = 'http://github.com/he9qi/fuzzy_matcher'
   s.license     = 'MIT'
   
   s.files         = Dir.glob('lib/**/*.rb')
