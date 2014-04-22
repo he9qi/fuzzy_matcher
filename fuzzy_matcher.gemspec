@@ -17,4 +17,6 @@ Gem::Specification.new do |s|
   s.files         = Dir.glob('lib/**/*.rb')
   s.require_paths = ['lib']
   s.test_files    = Dir.glob('spec/**/*.rb')
+  
+  s.add_runtime_dependency "tre-ruby", [">= 0"]
 end
