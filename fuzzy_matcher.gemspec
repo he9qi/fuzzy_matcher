@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   DESC
   s.authors     = ["Qi He"]
   s.email       = 'qihe229@gmail.com'
-  s.files       = ["lib/fuzzy_matcher.rb", "lib/fuzzy_matcher/"]
   s.homepage    = 'http://github.com/he9qi/fuzzy_matcher'
   s.license     = 'MIT'
   
